@@ -13,6 +13,8 @@ gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
 # devise bootstrap
 gem 'devise-bootstrap-views'
+# gem to get stock exchange
+gem 'stock_quote'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
